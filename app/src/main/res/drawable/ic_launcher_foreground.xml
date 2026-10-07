@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dynamic Play Badge / Shield Background with rounded corners -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M34,26 L74,26 C80.6,26 86,31.4 86,38 L86,70 C86,76.6 80.6,82 74,82 L34,82 C27.4,82 22,76.6 22,70 L22,38 C22,31.4 27.4,26 34,26 Z" />
+    
+    <!-- Stylized 'E' bars in clean white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,36 L48,36 C49.1,36 50,36.9 50,38 L50,42 C50,43.1 49.1,44 48,44 L38,44 L38,51 L46,51 C47.1,51 48,51.9 48,53 L48,56 C48,57.1 47.1,58 46,58 L38,58 L38,64 L48,64 C49.1,64 50,64.9 50,66 L50,70 C50,71.1 49.1,72 48,72 L32,72 C30.9,72 30,71.1 30,70 L30,38 C30,36.9 30.9,36 32,36 Z" />
+        
+    <!-- Stylized 'V' and streaming play arrowhead in clean white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,36 L58,36 C59.2,36 60.1,36.7 60.5,37.8 L67,56 L73.5,37.8 C73.9,36.7 74.8,36 76,36 L82,36 C83.2,36 84.1,37.1 83.7,38.2 L74,68.5 C73.5,70.5 71.5,72 69,72 L65,72 C62.5,72 60.5,70.5 60,68.5 L50.3,38.2 C49.9,37.1 50.8,36 52,36 Z" />
+
+    <!-- Velocity accent triangle / live play spark -->
+    <path
+        android:fillColor="#FFDD00"
+        android:pathData="M65.5,47 L73,54 L65.5,61 Z" />
+</vector>

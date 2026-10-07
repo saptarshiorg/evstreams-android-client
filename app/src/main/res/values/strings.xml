@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EV Sports</string>
+    <string name="app_tagline">Live Sports &amp; Stream Player</string>
+    <string name="developer_name">RishiEvolutionX Technologies Limited</string>
+    <string name="copyright_text">© 2026 RishiEvolutionX Technologies Limited. All rights reserved.</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_msg">Please check your network settings and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading EV Sports…</string>
+    <string name="about_title">About EV Sports</string>
+    <string name="version_label">Version 1.0.0 (Build 1)</string>
+    <string name="stream_player">EV Player</string>
+    <string name="enter_stream_url">Enter Stream URL or Playlist (.m3u8, .mpd, .mp4, rtsp://…)</string>
+    <string name="open_stream">Play Stream</string>
+    <string name="encrypted_file_playback">Decrypt &amp; Play .enc</string>
+    <string name="select_encrypted_file">Select .enc Media File</string>
+    <string name="enter_password">Enter Passphrase / Key</string>
+    <string name="decrypt_and_play">Decrypt &amp; Stream</string>
+    <string name="error_playback">Playback error encountered</string>
+    <string name="switching_engine">Switching to libVLC Engine…</string>
+    <string name="engine_media3">Media3 (ExoPlayer)</string>
+    <string name="engine_vlc">libVLC Engine</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "EV Sports",
+  "description": "EV Sports streaming application with high-performance native Media3 and libVLC playback engines, CORS proxy interceptor, and seamless web streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
